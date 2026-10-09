@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Menim Joseph
-- 👀 I’m a Frontend Developer || Product Designer
+- 👀 I’m a Product Designer || Frontend Developer 
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on any coding projects or challenge to improve my skills
 - 📫 How to reach me believejoseph43@gmail.com 
